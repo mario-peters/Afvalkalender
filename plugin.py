@@ -8,7 +8,7 @@
         <h2>Afvalkalender</h2><br/>
         TODO Test
         <h3>Configuration</h3><br/>
-        TODO
+        TODO TEST
     </description>
     <params>
         <param field="Mode1" label="Postcode" width="50px" required="true" default="1234AB"/>
