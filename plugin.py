@@ -6,7 +6,7 @@
 <plugin key="Afvalkalender" name="Afvalkalender" author="mario-peters" version="1.0.0" wikilin="https://github.com/mario-peters/Afvalkalender" externallink="https://github.com/mario-peters/Afvalkalender">
     <description>
         <h2>Afvalkalender</h2><br/>
-        TODO
+        TODO Test
         <h3>Configuration</h3><br/>
         TODO
     </description>
