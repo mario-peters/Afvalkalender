@@ -79,11 +79,11 @@ class Baseplugin:
     def onConnect(self, Connection, Status, Description):
         Domoticz.Log("onConnect called")
         Domoticz.Log("Connection name: "+Connection.Name)
-        if Connection.Name == "BagId":
-            sendData = { 'Verb' : 'GET',
-                    'URL' : 'https://afvalkalender.gemeenteberkelland.nl/rest/adressen/'+'7261za-27',
-                    }
-            Connection.Send(sendData)
+        #if Connection.Name == "BagId":
+            #sendData = { 'Verb' : 'GET',
+                    #'URL' : 'https://afvalkalender.gemeenteberkelland.nl/rest/adressen/'+'7261za-27',
+                    #}
+            #Connection.Send(sendData)
 
         """
         url_authorization="https://api.home-connect.com/security/oauth/device_authorization"
