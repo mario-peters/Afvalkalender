@@ -46,9 +46,9 @@
 </plugin>
 """
 import Domoticz
-import requests
-import json
-import datetime
+#import requests
+#import json
+#import datetime
 
 class Baseplugin:
     URL = None
